@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h2>20-03-2024</h2>
+<h2>Date:20-03-2024</h2>
 <h3>Name: Pranav AJ</h3>
 <h3>Register Number:212222230107</h3>
 <H3>Aim:</H3>
